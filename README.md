@@ -9,7 +9,13 @@ This library is tested in following environment.
 
 ## Object appearance
 
-Under construction.
+Schematic appearance
+
+![schematic](https://github.com/ainehanta/TESTPIN-lib/raw/master/sch.png)
+
+PCB appearance
+
+![pcb](https://github.com/ainehanta/TESTPIN-lib/raw/master/pcb.png)
 
 ## License
 
